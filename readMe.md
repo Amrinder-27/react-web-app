@@ -1,10 +1,10 @@
-# react web app (swiggy store)
+# React web app (swiggy store)
 Just playing with real time data.
 
 
-# created folder structure
+# Created folder structure
 
-# added components
+# Added components
 Showing live data from swiggy website.
 Worked on functional components and class based components for about page.
 Implemented controlled and uncontrolled functions.
@@ -14,12 +14,11 @@ Added constant file.
 Created custom accodion by using state and implmented state lift up.
 Styling the data with tailwind css.
 
-# optimization
+# Optimization
  Implemented lazyloading feature
 
-# redux store
+# Redux store
 Install reduxjs toolkit and react redux
-
 Build our store
 Connect our store to our app
 Cart slice (add item in the cart)
