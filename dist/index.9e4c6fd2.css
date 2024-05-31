@@ -334,6 +334,10 @@ img, video {
   width: 100%;
 }
 
+.w-\[239px\] {
+  width: 239px;
+}
+
 .cursor-pointer {
   cursor: pointer;
 }

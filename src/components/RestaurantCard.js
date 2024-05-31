@@ -4,7 +4,7 @@ const RestaurantCard = (props) => {
   //   const {name, cuisines} = resData;
   const imagelink = IMAGELINK + resData.info.cloudinaryImageId;
   return (
-    <div className="res-cards p-4 m-4 w-[257px] min-h-96 bg-gray-100 rounded-lgs">
+    <div className="res-cards p-4 m-4 w-[239px] min-h-96 bg-gray-100 rounded-lgs">
       <div className="image-logo w-full h-52 relative border-b-emerald-100 overflow-hidden">
         {" "}
         <img

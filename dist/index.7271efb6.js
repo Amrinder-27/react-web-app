@@ -35734,7 +35734,7 @@ const RestaurantCard = (props)=>{
     //   const {name, cuisines} = resData;
     const imagelink = (0, _constant.IMAGELINK) + resData.info.cloudinaryImageId;
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-        className: "res-cards p-4 m-4 w-[257px] min-h-96 bg-gray-100 rounded-lgs",
+        className: "res-cards p-4 m-4 w-[239px] min-h-96 bg-gray-100 rounded-lgs",
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "image-logo w-full h-52 relative border-b-emerald-100 overflow-hidden",
